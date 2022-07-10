@@ -16,14 +16,14 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Kolkata 
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Niranjan Ghule                          # the main title
+title: Niranjan Ghule # the main title
 
-tagline: Blog about Java, Software Development.   # it will display as the sub-title
+tagline: Blog on Software Development # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
  My personal blog where I share my day-to-day learnings on Java and everything related to software development.
@@ -43,11 +43,11 @@ social:
   email: niranjan.ghule@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/ghuleniranjan      # change to your twitter homepage
-    - https://github.com/niranjanghule       # change to your github homepage
+    - https://twitter.com/ghuleniranjan # change to your twitter homepage
+    - https://github.com/niranjanghule # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/niranjan-ghule-a0372956/ 
+    - https://www.linkedin.com/in/niranjan-ghule-a0372956/
 
 google_site_verification:               # fill in to your verification string
 
@@ -79,8 +79,7 @@ theme_mode:   # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-#img_cdn: 'http://127.0.0.1:4000'
-img_cdn: 'https://niranjanghule.github.io/'
+img_cdn: 'http://127.0.0.1:4000'
 
 # the avatar on sidebar, support local or CORS resources
 avatar: '/assets/img/display-pic.jpeg'
